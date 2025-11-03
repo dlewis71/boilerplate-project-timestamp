@@ -7,9 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.12.4",
-      "dotenv": "^17.2.3",
-    "cors": "^2.8.0"
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.21.2"
   },
   "repository": {
     "type": "git",
